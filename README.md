@@ -3,5 +3,6 @@ Python web crawler to grab all images of all formats: .img .jpg .jpeg .png .webp
 
 REQUIRED LIBRARIES:
 Most of the libraries used for this code are in-build in Python. These are some of the libraries that you have installed manually:
+    
     pip install beautifulsoup4 tqdm
 
